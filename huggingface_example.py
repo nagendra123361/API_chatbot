@@ -4,7 +4,7 @@ import os
 from huggingface_hub import InferenceClient
 
 # Get API token from environment variable
-api_key = os.getenv("HF_TOKEN")
+api_key = "HF_TOKEN"
 
 # Initialize Hugging Face client
 client = InferenceClient(token=api_key)

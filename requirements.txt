@@ -1,0 +1,17 @@
+# Core HTTP requests 
+requests
+
+# Groq API client
+groq
+
+# Google Gemini 
+google-genai
+
+# Cohere API
+cohere
+
+# Hugging Face Inference
+huggingface_hub
+
+# Streamlit (for UI)
+streamlit

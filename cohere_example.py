@@ -4,7 +4,7 @@ import cohere
 import os
 
 # Get API key from environment variable
-api_key = os.getenv("COHERE_API_KEY")
+api_key = "COHERE_API_KEY"
 
 # Initialize Cohere client
 client = cohere.Client(api_key)
